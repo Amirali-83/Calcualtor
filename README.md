@@ -5,5 +5,5 @@ A simple calculator app built with **React** that performs the four basic mathem
 
 ---
 
-![start](./Start.png)
+![start](./start.png)
 ![Example](./Example.png)
