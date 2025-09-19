@@ -5,15 +5,5 @@ A simple calculator app built with **React** that performs the four basic mathem
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/your-username/calculator-app.git
-cd calculator-app
-npm install
-npm start
-
-![Start](./start.png)
-![Example](./example.png)
+![Start](./Start.png)
+![Example](./Example.png)
